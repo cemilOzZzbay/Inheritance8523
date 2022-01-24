@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance8523", "Inheritance8523\Inheritance8523.csproj", "{90225491-858E-4820-9F95-9B6B7D0E859A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{8CC96F7A-E80D-4565-890E-A5FB8DABBA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90225491-858E-4820-9F95-9B6B7D0E859A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90225491-858E-4820-9F95-9B6B7D0E859A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90225491-858E-4820-9F95-9B6B7D0E859A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90225491-858E-4820-9F95-9B6B7D0E859A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC96F7A-E80D-4565-890E-A5FB8DABBA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC96F7A-E80D-4565-890E-A5FB8DABBA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC96F7A-E80D-4565-890E-A5FB8DABBA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC96F7A-E80D-4565-890E-A5FB8DABBA98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450947B7-9702-4AA3-9D26-B8493819B1C7}
+	EndGlobalSection
+EndGlobal
